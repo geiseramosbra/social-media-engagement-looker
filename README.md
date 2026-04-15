@@ -34,4 +34,4 @@ Empresas geram volumes massivos de dados em redes sociais (Instagram, LinkedIn, 
 * `README.md`: Documentação do projeto.
 
 ---
-**Desenvolvido por Geiseanne Ramos** *Especialista em Engenharia Civil transitando para Data Science & AI.*
+**Desenvolvido por Geiseanne Ramos** *Especialista Data Science & AI.*
